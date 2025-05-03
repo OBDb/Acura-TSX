@@ -1,0 +1,10 @@
+generations:
+  - name: "First Generation"
+    start_year: 2004
+    end_year: 2008
+    description: "The first generation TSX was essentially the European/Japanese market Honda Accord adapted for the North American luxury market. It featured a high-revving 2.4L four-cylinder engine producing 200-205 HP, available with either a 6-speed manual or 5-speed automatic transmission. Known for its sharp handling, premium features, and value proposition, it established itself as an entry-level sports sedan that appealed to driving enthusiasts."
+
+  - name: "Second Generation"
+    start_year: 2009
+    end_year: 2014
+    description: "The second generation TSX grew in size and offered more luxury features. The 2.4L four-cylinder remained the base engine, while a 3.5L V6 with 280 HP was added as an option in 2010. A wagon variant (TSX Sport Wagon) was also introduced, offering additional practicality. This generation maintained the TSX's reputation for balanced handling while adding more refinement and technology. It was eventually discontinued and replaced by the TLX, which combined the TSX and TL model lines."
