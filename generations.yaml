@@ -9,5 +9,10 @@ generations:
 
   - name: "Second Generation"
     start_year: 2009
+    end_year: 2010
+    description: "The second generation TSX made its debut in 2009 as a larger, more refined entry-level luxury sedan. The 2.4L four-cylinder engine produced 201 HP with a 5-speed automatic or 6-speed manual transmission. For 2010, a 3.5L V6 with 280 HP became available as an option. This generation featured Advanced Compatibility Engineering body structure, xenon headlights, and a more spacious interior than its predecessor."
+
+  - name: "Second Generation (2011 Facelift)"
+    start_year: 2011
     end_year: 2014
-    description: "The second generation TSX grew in size and offered more luxury features. The 2.4L four-cylinder remained the base engine, while a 3.5L V6 with 280 HP was added as an option in 2010. A wagon variant (TSX Sport Wagon) was also introduced, offering additional practicality. This generation maintained the TSX's reputation for balanced handling while adding more refinement and technology. It was eventually discontinued and replaced by the TLX, which combined the TSX and TL model lines."
+    description: "The 2011 facelift introduced a redesigned front end with horizontal-slot upper grille, new bumper cover design with body-colored sections, revised fog lamp areas, and updated taillights. Interior updates included more LED lighting and a new LED/VGA navigation screen with improved system functions. The TSX Sport Wagon was also introduced for 2011, offering a station wagon variant. This generation was eventually discontinued and replaced by the TLX, which combined the TSX and TL model lines."
